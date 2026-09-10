@@ -2,7 +2,7 @@ var saveBtn = document.getElementById("save-btn");
 saveBtn.addEventListener("click", function () {
   // Get the contact information from the website
   var contact = {
-    name: "Eng.Abdulrahman A. Bin Sulaiman",
+    name: "Eng.Abdulrahman Bin Sulaiman",
     phone: "0555402460",
     email: "aabinsulaiman@gasco.com.sa"
   };
